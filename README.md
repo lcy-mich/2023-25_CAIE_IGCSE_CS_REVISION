@@ -6,7 +6,9 @@ i am writing this as of two days before my first computer science exam. behold, 
 
 most of the information given and notes are from the _Cambridge IGCSE and O Level Computer Science Second Edition textbook published by Hodder Education_ and from personal research guided by the 2023-25 Cambridge Assessment Internation Education syllabus. _Any extra-curricular information will be noted as such with sources provided at the end of that particular section of text_
 
-> ⚠ becareful that the revision guides you find and use online are up to date, many are still using the old syllabus rather than te 2023-25 syllabus
+> *⚠ becareful that the revision guides you find and use online are <ins>**up to date**</ins>, many are still using the old syllabus rather than the 2023-25 syllabus.*
+
+> *⚠ some online revision guides you find are <ins>**missing topics in the syllabus, so always double check!**</ins>*
 
 - [🔗 link to the CAIE IGCSE Computer Science 2023-25 syllabus](https://www.cambridgeinternational.org/Images/595424-2023-2025-syllabus.pdf)
 
@@ -17,9 +19,9 @@ most of the information given and notes are from the _Cambridge IGCSE and O Leve
 - [🔗 link to znotes revision guide (⚠ they are missing the final topic "boolean logic")](https://znotes.org/caie/igcse/computer-science-0478/)
 
 
-> this guide is designed to be **self-contained**; to reduce the need to search far and wide for information, and to that affect, if you find that you need to search elsewhere for clarifications, add an issue to the repo about it!
+> *⚠ this guide is designed to be **self-contained**; to reduce the need to search far and wide for information. please do still use the textbook as I may omit or forget sections, in which case, if you find that you need to search elsewhere for clarifications, or realised that I missed an important section, issue an issue on the repo about it!*
 
-> any other addendums, edits or clarifications are welcome, contribute as you please!
+any other addendums, edits or clarifications are welcome, contribute as you please!
 
 now that's out of the way:
 
@@ -198,6 +200,8 @@ you should be able to:
 ---
 
 ## 1.1 number systems 😋
+
+
 
 ---
 
