@@ -6,18 +6,17 @@ i am writing this as of two days before my first computer science exam. behold, 
 
 most of the information given and notes are from the _Cambridge IGCSE and O Level Computer Science Second Edition textbook published by Hodder Education_ and from personal research guided by the 2023-25 Cambridge Assessment Internation Education syllabus. _Any extra-curricular information will be noted as such with sources provided at the end of that particular section of text_
 
-> *⚠ becareful that the revision guides you find and use online are <ins>**up to date**</ins>, many are still using the old syllabus rather than the 2023-25 syllabus.*
-
-> *⚠ some online revision guides you find are <ins>**missing topics in the syllabus, so always double check!**</ins>*
-
 - [🔗 link to the CAIE IGCSE Computer Science 2023-25 syllabus](https://www.cambridgeinternational.org/Images/595424-2023-2025-syllabus.pdf)
 
-- [🔗 link to CAIE IGCSE CS Revision notes on www.savemyexams.co.uk (i believe at the moment of me writing this, they have not mentioned databases)](https://www.savemyexams.co.uk/igcse/computer-science/cie/23/revision-notes/)
+- [🔗 link to CAIE IGCSE CS Revision notes on www.savemyexams.co.uk (at the moment of writing this, they are missing topics 7,9,10)](https://www.savemyexams.co.uk/igcse/computer-science/cie/23/revision-notes/)
 
 - [🔗 link to 2023 CAIE IGCSE CS specimen papers on the cambridge site](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/past-papers/)
 
-- [🔗 link to znotes revision guide (⚠ they are missing the final topic "boolean logic")](https://znotes.org/caie/igcse/computer-science-0478/)
+- [🔗 link to znotes revision guide (they are missing the final topic "boolean logic")](https://znotes.org/caie/igcse/computer-science-0478/)
 
+> *⚠ becareful that the revision guides you find and use online are <ins>**up to date**</ins>, many are still using the old syllabus rather than the 2023-25 syllabus.*
+
+> *⚠ some online revision guides you find are <ins>**missing topics in the syllabus, so always double check!**</ins>*
 
 > *⚠ this guide is designed to be **self-contained**; to reduce the need to search far and wide for information. please do still use the textbook as I may omit or forget sections, in which case, if you find that you need to search elsewhere for clarifications, or realised that I missed an important section, issue an issue on the repo about it!*
 
