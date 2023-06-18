@@ -1,0 +1,74 @@
+2023-06-18 23:57:19.867 +08:00 [INF] This only goes file...
+2023-06-18 23:57:21.866 +08:00 [INF] Diagnostic
+2023-06-18 23:57:21.899 +08:00 [WRN] Code action yay
+2023-06-18 23:57:22.325 +08:00 [INF] Completion yay
+2023-06-18 23:57:22.327 +08:00 [INF] Configuring
+2023-06-18 23:57:22.327 +08:00 [INF] inside ctor
+2023-06-18 23:57:22.327 +08:00 [INF] Fooooo!
+2023-06-18 23:57:22.328 +08:00 [WRN] hi
+2023-06-18 23:57:22.329 +08:00 [WRN] Sync Handler
+2023-06-18 23:57:22.335 +08:00 [INF] Fooooo!
+2023-06-18 23:57:22.336 +08:00 [WRN] hi
+2023-06-18 23:57:22.337 +08:00 [INF] Fooooo!
+2023-06-18 23:57:22.337 +08:00 [WRN] hi references
+2023-06-18 23:57:22.338 +08:00 [INF] Fooooo!
+2023-06-18 23:57:22.338 +08:00 [WRN] hi document highlight
+2023-06-18 23:57:22.345 +08:00 [INF] Fooooo!
+2023-06-18 23:57:22.345 +08:00 [WRN] hi document symbol
+2023-06-18 23:57:22.513 +08:00 [DBG] Finding descriptors for initialize
+2023-06-18 23:57:22.777 +08:00 [DBG] Queueing "Serial":initialize:0 request for processing
+2023-06-18 23:57:22.827 +08:00 [DBG] Starting: Processing request initialize 0
+2023-06-18 23:57:22.847 +08:00 [DBG] Starting: Routing Request (0) initialize
+2023-06-18 23:57:22.856 +08:00 [VRB] Converting params for Request (0) initialize to OmniSharp.Extensions.LanguageServer.Protocol.Models.InternalInitializeParams
+2023-06-18 23:57:22.863 +08:00 [VRB] Converting params for Notification initialize to OmniSharp.Extensions.LanguageServer.Protocol.Models.InternalInitializeParams
+2023-06-18 23:57:23.829 +08:00 [VRB] Response value was OmniSharp.Extensions.LanguageServer.Protocol.Models.InitializeResult
+2023-06-18 23:57:23.856 +08:00 [DBG] Finished: Routing Request (0) initialize in 1006ms
+2023-06-18 23:57:23.857 +08:00 [DBG] Finished: Processing request initialize 0 in 1019ms
+2023-06-18 23:57:24.192 +08:00 [DBG] Finding descriptors for initialized
+2023-06-18 23:57:24.194 +08:00 [DBG] Queueing "Serial":initialized request for processing
+2023-06-18 23:57:24.206 +08:00 [DBG] Starting: Processing notification initialized
+2023-06-18 23:57:24.211 +08:00 [DBG] Starting: Routing Notification initialized
+2023-06-18 23:57:24.211 +08:00 [VRB] Converting params for Notification initialized to OmniSharp.Extensions.LanguageServer.Protocol.Models.InitializedParams
+2023-06-18 23:57:24.580 +08:00 [DBG] Finished: Routing Notification initialized in 368ms
+2023-06-18 23:57:24.580 +08:00 [DBG] Finished: Processing notification initialized in 374ms
+2023-06-18 23:57:24.594 +08:00 [DBG] Finding descriptors for workspace/didChangeConfiguration
+2023-06-18 23:57:24.605 +08:00 [DBG] Swapping from "Serial" to "Parallel"
+2023-06-18 23:57:24.606 +08:00 [DBG] Completing existing request process type "Serial"
+2023-06-18 23:57:24.619 +08:00 [DBG] Queueing "Parallel":workspace/didChangeConfiguration request for processing
+2023-06-18 23:57:24.619 +08:00 [DBG] Starting: Processing notification workspace/didChangeConfiguration
+2023-06-18 23:57:24.619 +08:00 [DBG] Starting: Routing Notification workspace/didChangeConfiguration
+2023-06-18 23:57:24.619 +08:00 [VRB] Converting params for Notification workspace/didChangeConfiguration to OmniSharp.Extensions.LanguageServer.Protocol.Models.DidChangeConfigurationParams
+2023-06-18 23:57:24.666 +08:00 [DBG] Finished: Routing Notification workspace/didChangeConfiguration in 46ms
+2023-06-18 23:57:24.667 +08:00 [DBG] Finished: Processing notification workspace/didChangeConfiguration in 47ms
+2023-06-18 23:57:24.677 +08:00 [DBG] Finding descriptors for textDocument/didOpen
+2023-06-18 23:57:24.703 +08:00 [VRB] Created attribute pseudocode::file:///e:/practice.pseudo
+2023-06-18 23:57:24.714 +08:00 [VRB] Looking for handler for descriptors textDocument/didOpen
+2023-06-18 23:57:24.715 +08:00 [VRB] Checking handler textDocument/didOpen:PseudoCode.LSP.TextDocumentSyncHandler
+2023-06-18 23:57:24.715 +08:00 [VRB] Registration options OmniSharp.Extensions.LanguageServer.Protocol.Models.TextDocumentOpenRegistrationOptions
+2023-06-18 23:57:24.717 +08:00 [VRB] Document Selector [pseudocode]
+2023-06-18 23:57:24.719 +08:00 [VRB] Handler Selected: PseudoCode.LSP.TextDocumentSyncHandler  via [pseudocode] (targeting OmniSharp.Extensions.JsonRpc.IJsonRpcNotificationHandler`1[[OmniSharp.Extensions.LanguageServer.Protocol.Models.DidOpenTextDocumentParams, OmniSharp.Extensions.LanguageProtocol, Version=0.19.0.0, Culture=neutral, PublicKeyToken=6d868dff454e6022]])
+2023-06-18 23:57:24.721 +08:00 [DBG] Swapping from "Parallel" to "Serial"
+2023-06-18 23:57:24.721 +08:00 [DBG] Cancelling any outstanding requests (switch from parallel to serial)
+2023-06-18 23:57:24.723 +08:00 [DBG] Completing existing request process type "Parallel"
+2023-06-18 23:57:24.723 +08:00 [DBG] Queueing "Serial":textDocument/didOpen request for processing
+2023-06-18 23:57:24.723 +08:00 [DBG] Starting: Processing notification textDocument/didOpen
+2023-06-18 23:57:24.723 +08:00 [DBG] Starting: Routing Notification textDocument/didOpen
+2023-06-18 23:57:24.724 +08:00 [VRB] Converting params for Notification textDocument/didOpen to OmniSharp.Extensions.LanguageServer.Protocol.Models.DidOpenTextDocumentParams
+2023-06-18 23:57:24.733 +08:00 [INF] file:///e:/practice.pseudo Open // board matrix declaration
+DECLARE board : ARRAY[1 : 3, 1 : 3] OF STRING
+
+
+PROCEDURE show_board() // Procedure to output board
+    DECLARE i : INTEGER
+    FOR i <- 1 TO 3 // for loop to output all the elements
+        OUTPUT board[i, 1], board[i, 2], board[i, 3]
+    NEXT i
+ENDPROCEDURE
+
+CALL show_board
+
+2023-06-18 23:57:24.734 +08:00 [ERR] file:///e:/practice.pseudo not found
+2023-06-18 23:57:24.743 +08:00 [INF] Analysing: file:///e:/practice.pseudo
+2023-06-18 23:57:25.150 +08:00 [INF] Analysed file:///e:/practice.pseudo in 410ms
+2023-06-18 23:57:25.160 +08:00 [DBG] Finished: Routing Notification textDocument/didOpen in 436ms
+2023-06-18 23:57:25.160 +08:00 [DBG] Finished: Processing notification textDocument/didOpen in 436ms
